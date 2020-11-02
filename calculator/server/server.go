@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/riteshharjani/grpc-go-course/calculator/calcpb"
+	"github.com/riteshharjani/grpc-hands-on/calculator/calcpb"
 	"google.golang.org/grpc"
 )
 
